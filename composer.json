@@ -12,11 +12,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "pagseguro/php": "dev-master"
+        "php": ">=5.4.16"
     },
     "autoload":{
         "psr-4":{
-            "Pagseguro\\":"src"
+            "Gerencianet\\":"src"
         }
     }
 }
